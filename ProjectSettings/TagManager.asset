@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Decoration
+  - Dart
+  - Enemy1
+  - Bomb
+  - GroundCheck
+  - CircleAttack
+  - Medicine
+  - Clue
+  - Key
+  - CarpetKnife
+  - Bucket
+  - ShotAreaCheck
+  - Enemy3
+  - Boss
+  - AttackCheck
+  - TriggerArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 859548621
+    locked: 0
+  - name: Wall
+    uniqueID: 2728889859
+    locked: 0
+  - name: WaterPool
+    uniqueID: 3862875637
+    locked: 0
+  - name: Decorative
+    uniqueID: 2058444687
+    locked: 0
+  - name: Enemy
+    uniqueID: 1799764293
+    locked: 0
+  - name: Player
+    uniqueID: 2425651459
+    locked: 0
+  - name: Trap
+    uniqueID: 3482274985
+    locked: 0
