@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 8e6258b8b1f38aa4ba6e591508b97fec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopdownAssets_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9bee3b217e6074187a7b9e50826d48
+      internalID: 515201140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e51a196aa8a04aa0c4885c90716a8
+      internalID: 1073327712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4de77ef9c169408f37666b00df3e5
+      internalID: -1492236102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38aa864e0893a545b29854eae581883
+      internalID: -1867766449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6149e77fdf4341b5ccde13309cd82
+      internalID: 341114826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19bbf1cad561c4bb1ba5a8c1a3e50b
+      internalID: -598600116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035e908916b93240889e4c41fb51e00
+      internalID: -1319024098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d0337a1da2714cae0aabab6be5159
+      internalID: 215211468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef403988381e30440bd64aebcc78e618
+      internalID: -428082031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a610c558d159f54999f4df59cd5b873
+      internalID: 1857851086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0ba85bfa7845438cadca6eba67982
+      internalID: -721365080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac885be393dd3bc44aae6f72d0c69461
+      internalID: -1285200430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7db009cfb258f41a9ecc2811588115
+      internalID: 959872221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8adb06e7087c74aba270545bc3562a
+      internalID: -1779180262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5ae3e9eb2db84282715864a0909c3
+      internalID: -1746826270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopdownAssets_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48534016106a9b547a13ac5db31ff019
+      internalID: 1503101221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TopdownAssets_0: -1848199116
+      TopdownAssets_1: -894866266
+      TopdownAssets_10: -1804214512
+      TopdownAssets_11: -1610253212
+      TopdownAssets_12: -1977292399
+      TopdownAssets_13: -2019388427
+      TopdownAssets_14: -1540529504
+      TopdownAssets_15: -2053372885
+      TopdownAssets_16: -616217702
+      TopdownAssets_17: 1762007960
+      TopdownAssets_18: -764911179
+      TopdownAssets_19: -512084706
+      TopdownAssets_2: 216513567
+      TopdownAssets_20: 786205951
+      TopdownAssets_21: 740689796
+      TopdownAssets_22: -1921668994
+      TopdownAssets_23: 1616884771
+      TopdownAssets_24: 1484219224
+      TopdownAssets_25: -547664699
+      TopdownAssets_26: -1595146989
+      TopdownAssets_27: 459157374
+      TopdownAssets_28: -1732595098
+      TopdownAssets_29: 784753568
+      TopdownAssets_3: 1659992861
+      TopdownAssets_30: 414196656
+      TopdownAssets_31: 1894684126
+      TopdownAssets_32: 1272554932
+      TopdownAssets_33: 1656658395
+      TopdownAssets_34: 331208629
+      TopdownAssets_35: 620308265
+      TopdownAssets_36: 1456132165
+      TopdownAssets_37: 515201140
+      TopdownAssets_38: 1073327712
+      TopdownAssets_39: -1492236102
+      TopdownAssets_4: -1624568575
+      TopdownAssets_40: -1867766449
+      TopdownAssets_41: 341114826
+      TopdownAssets_42: 793208114
+      TopdownAssets_43: 1977161277
+      TopdownAssets_44: -2116495531
+      TopdownAssets_45: -470569166
+      TopdownAssets_46: 525812145
+      TopdownAssets_47: 233587146
+      TopdownAssets_48: 2081199999
+      TopdownAssets_49: -893277383
+      TopdownAssets_5: 86407405
+      TopdownAssets_50: 1581063404
+      TopdownAssets_51: 1668323701
+      TopdownAssets_52: -1838392064
+      TopdownAssets_53: -637298201
+      TopdownAssets_54: 538670802
+      TopdownAssets_55: 1669684807
+      TopdownAssets_56: 286616833
+      TopdownAssets_57: 1853278466
+      TopdownAssets_58: -1829833264
+      TopdownAssets_59: -542876967
+      TopdownAssets_6: -894804142
+      TopdownAssets_60: -598600116
+      TopdownAssets_61: -1319024098
+      TopdownAssets_62: 215211468
+      TopdownAssets_63: -428082031
+      TopdownAssets_64: 1857851086
+      TopdownAssets_65: -721365080
+      TopdownAssets_66: -1285200430
+      TopdownAssets_67: 959872221
+      TopdownAssets_68: -1779180262
+      TopdownAssets_69: -1746826270
+      TopdownAssets_7: 1268943594
+      TopdownAssets_70: 1503101221
+      TopdownAssets_71: -1801456919
+      TopdownAssets_72: 968747734
+      TopdownAssets_73: -763807413
+      TopdownAssets_74: -882273914
+      TopdownAssets_75: 207109007
+      TopdownAssets_76: 981760634
+      TopdownAssets_77: 951183292
+      TopdownAssets_78: -267442867
+      TopdownAssets_79: -853454256
+      TopdownAssets_8: -1613871033
+      TopdownAssets_80: -252862780
+      TopdownAssets_81: 1228862823
+      TopdownAssets_82: 892971172
+      TopdownAssets_83: -1704430801
+      TopdownAssets_84: -1998293215
+      TopdownAssets_85: 869840075
+      TopdownAssets_86: -1307024446
+      TopdownAssets_87: -57685972
+      TopdownAssets_88: 1599772730
+      TopdownAssets_89: -202982425
+      TopdownAssets_9: 391724260
+      TopdownAssets_90: -485959223
+      TopdownAssets_91: 1381619870
+      TopdownAssets_92: -309988864
+      TopdownAssets_93: 220525386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
